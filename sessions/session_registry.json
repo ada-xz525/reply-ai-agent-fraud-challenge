@@ -1,0 +1,164 @@
+[
+  {
+    "session_id": "lu-mark-1f3c-Team-54722D9A97604B3AA5AF731CD19DCB69",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 7,
+    "candidate_count": 7
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-8D5F4A2CBC7842A7830ABD92C2F20DDF",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 7,
+    "candidate_count": 7
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-9B91845B38D64BCB833B074DBFBAD533",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 6,
+    "candidate_count": 6
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-9D32060651764456896075E7EF26A41C",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 6,
+    "candidate_count": 6
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-FDDBD4D40AAB4B1A80861FB5DD15AE43",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 6,
+    "candidate_count": 6
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-F55C072EF47B44C3B7D54E6CEF82DA73",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 6,
+    "candidate_count": 6
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBD1273NKT8HTTQTVJE6RSY",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 6,
+    "candidate_count": 6
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBD3J366AZ56CJTEGB5GG2T",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 3,
+    "candidate_count": 3
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBDF34350GSM2JXC2RB2PTC",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/The Truman Show - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/The Truman Show - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 80,
+    "predicted_count": 2,
+    "candidate_count": 3
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBDW5KGC72T7P91H66YY2DS",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Brave New World - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Brave New World - train_output.txt",
+    "mode": "training",
+    "total_transactions": 522,
+    "predicted_count": 9,
+    "candidate_count": 16
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBE6BDN2A96PA66J5CJ55A1",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Brave New World - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Brave New World - train_output.txt",
+    "mode": "training",
+    "total_transactions": 522,
+    "predicted_count": 53,
+    "candidate_count": 53
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBE7SDP90YXRDKBBQKJG4BC",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/The Truman Show - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/The Truman Show - train_output.txt",
+    "mode": "training",
+    "total_transactions": 80,
+    "predicted_count": 8,
+    "candidate_count": 8
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBFSETY788D16D8JJSJK5VD",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Deus Ex - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Deus Ex - train_output.txt",
+    "mode": "training",
+    "total_transactions": 2017,
+    "predicted_count": 202,
+    "candidate_count": 202
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBG1Z0101961CXAHCHB3YZW",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Deus Ex - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Deus Ex - train_output.txt",
+    "mode": "training",
+    "total_transactions": 2017,
+    "predicted_count": 202,
+    "candidate_count": 202
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBG4XAWHRDSP0F140XMYC15",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Brave New World - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/Brave New World - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 524,
+    "predicted_count": 53,
+    "candidate_count": 53
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBG937KN50B9T0DXM8S6Z6R",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Deus Ex - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/Deus Ex - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 2006,
+    "predicted_count": 201,
+    "candidate_count": 201
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBHACG3A6Z1DHF6RWEMN72E",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/Blade Runner - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Blade Runner - train_output.txt",
+    "mode": "training",
+    "total_transactions": 7387,
+    "predicted_count": 739,
+    "candidate_count": 739
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBHEM23J2R2H5ZQ2EXA24M5",
+    "dataset_dir": "/Users/xiao/\u4e2a\u4eba/AI/challenge/1984 - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/1984 - train_output.txt",
+    "mode": "training",
+    "total_transactions": 14574,
+    "predicted_count": 1458,
+    "candidate_count": 1458
+  }
+]

@@ -1,5 +1,1 @@
 .env
-data/raw/
-outputs/
-sessions/
-*.zip
