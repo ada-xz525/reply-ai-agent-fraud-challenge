@@ -160,5 +160,86 @@
     "total_transactions": 14574,
     "predicted_count": 1458,
     "candidate_count": 1458
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBN7H0NKQK1R9HWG29BZZ6Q",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/1984 - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/1984 - train_output.txt",
+    "mode": "training",
+    "total_transactions": 14574,
+    "predicted_count": 1458,
+    "candidate_count": 1458
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBN8DPB9CHQH6PCF6KQ7ZM8",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/1984 - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/1984 - train_output.txt",
+    "mode": "training",
+    "total_transactions": 14574,
+    "predicted_count": 1458,
+    "candidate_count": 1458
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNBNFNDJQXGRBJD4GD9KS2",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Blade Runner - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/Blade Runner - train_output.txt",
+    "mode": "training",
+    "total_transactions": 7387,
+    "predicted_count": 739,
+    "candidate_count": 739
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNDMTX6Y3BCAKX9PGHK5AX",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Blade Runner - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/Blade Runner - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 7288,
+    "predicted_count": 729,
+    "candidate_count": 729
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNE7PFZ42EK1X40J4F6JRQ",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Blade Runner - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/Blade Runner - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 7288,
+    "predicted_count": 729,
+    "candidate_count": 729
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNG5BA914HVYWZVEDJS4CS",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/1984 - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/1984 - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 14672,
+    "predicted_count": 1468,
+    "candidate_count": 1468
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNKYNTD19FW7KBXTE8FA74",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/Deus Ex - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/Deus Ex - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 2006,
+    "predicted_count": 201,
+    "candidate_count": 201
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNN0SN5TFNQM7S1H875VA4",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/1984 - train",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/training/1984 - train_output.txt",
+    "mode": "training",
+    "total_transactions": 14574,
+    "predicted_count": 1458,
+    "candidate_count": 1458
+  },
+  {
+    "session_id": "lu-mark-1f3c-Team-01KPBNNQWYWVPCREFXKJN9EHNT",
+    "dataset_dir": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/data/raw/1984 - validation",
+    "output_path": "/Users/xiao/PycharmProjects/reply-ai-agent-fraud-challenge/outputs/evaluation/1984 - validation_output.txt",
+    "mode": "evaluation",
+    "total_transactions": 14672,
+    "predicted_count": 1468,
+    "candidate_count": 1468
   }
 ]

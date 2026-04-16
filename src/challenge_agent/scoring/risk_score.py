@@ -120,7 +120,7 @@ def build_risk_score(df: pd.DataFrame, cols: dict, weights: dict) -> pd.DataFram
 
     out["_amount_z"] = robust_zscore(out["_amount"])
     out["_amount_norm"] = minmax_scale(out["_amount_z"].clip(lower=0))
-    out["_high_amount_bonus"] = minmax_scale(np.log1p(out["_amount"]))
+    out["_high_amount_bonus"] = minmax_scale(np.log1p(out["_amount"].clip(lower=0.0)))
 
     timestamp_col = cols.get("timestamp")
     if timestamp_col and timestamp_col in out.columns:
