@@ -1,0 +1,24 @@
+Dataset summary:
+{summary_json}
+
+Tool summary:
+{tool_summary_json}
+
+Return JSON with this schema:
+{
+  "focus_patterns": [],
+  "weights": {
+    "amount_z": 3.0,
+    "rapid_repeat": 2.0,
+    "device_accounts": 2.5,
+    "ip_accounts": 2.0,
+    "country_switch": 2.0,
+    "night": 0.8,
+    "status_failed": 1.2,
+    "high_amount_bonus": 3.0
+  },
+  "candidate_percentile": 0.97,
+  "risk_threshold_quantile": 0.92,
+  "review_top_k_high_value": 20,
+  "reasoning_short": ""
+}

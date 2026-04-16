@@ -1,0 +1,11 @@
+orchestrator:
+  provider: openrouter
+  model: gpt-4o-mini
+  temperature: 0.1
+  max_tokens: 1200
+
+reviewer:
+  provider: openrouter
+  model: gpt-4o-mini
+  temperature: 0.0
+  max_tokens: 800

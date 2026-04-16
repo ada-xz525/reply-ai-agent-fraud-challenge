@@ -1,0 +1,17 @@
+random_seed: 42
+
+candidate:
+  candidate_percentile: 0.97
+  top_amount_percentile: 0.99
+  review_top_k: 20
+
+thresholds:
+  final_risk_quantile: 0.92
+  rapid_repeat_seconds: 120
+
+budget:
+  max_llm_calls_per_dataset: 3
+  max_review_records: 20
+
+output:
+  one_id_per_line: true

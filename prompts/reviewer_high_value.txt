@@ -1,0 +1,13 @@
+Review the following borderline transactions.
+Promote only those that are especially suspicious.
+Demote only those that look likely benign.
+
+Records:
+{records_json}
+
+Return JSON:
+{
+  "promote_tx_ids": [],
+  "demote_tx_ids": [],
+  "reasoning_short": ""
+}
